@@ -354,6 +354,9 @@ linear-gradient(0deg, #BCBCBC, #BCBCBC);
     .services__container{
         margin: 10px 90px;
     }
+    .main__pic2{
+        margin-left: auto;
+    }   
 }
 @media(max-width:1117px){
     .main__pic{
@@ -390,6 +393,7 @@ linear-gradient(0deg, #BCBCBC, #BCBCBC);
     .services__container{
         margin: 10px 35px;
     }
+    
 }
 @media(max-width: 636px){
     .services__container{
@@ -397,9 +401,6 @@ linear-gradient(0deg, #BCBCBC, #BCBCBC);
     }
     .main__title{
         font-size: 55px;
-    }
-    .main__pic2{
-        margin-left: auto;
     }
 }
 @media(max-width: 618px){
