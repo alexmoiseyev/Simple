@@ -418,8 +418,9 @@ linear-gradient(0deg, #BCBCBC, #BCBCBC);
 }
 @media (max-width: 565px){
     .nav__list {
-    width: 100%;
-    justify-content: space-between;
+        width: 100%;
+        justify-content: space-between;
+        margin: 0 10px;
     }
     .flex{
         padding: 0 4px;
@@ -429,6 +430,9 @@ linear-gradient(0deg, #BCBCBC, #BCBCBC);
     }
     .scatch__block-textbox{
         margin-left: 0px;
+    }
+    .nav_element {
+        font-size: 18px;
     }
 }
 
