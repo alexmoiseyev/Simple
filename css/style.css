@@ -431,6 +431,9 @@ linear-gradient(0deg, #BCBCBC, #BCBCBC);
     }
 }
 @media (max-width: 430px){
+    .flex{
+        padding: 0 4px;
+    }
     .nav__box{
         padding: 0;
     }
