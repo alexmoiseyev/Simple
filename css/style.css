@@ -422,20 +422,12 @@ linear-gradient(0deg, #BCBCBC, #BCBCBC);
 }
 @media (max-width: 905px){
     .nav__elements{
-        margin-right: 0;
+        margin-right: 10px;
     }
     
     .nav_element{
         margin-top: 4px;
         
-    }
-}
-@media (max-width: 430px){
-    .flex{
-        padding: 0 4px;
-    }
-    .nav__box{
-        padding: 0;
     }
 }
 
