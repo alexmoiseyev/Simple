@@ -37,7 +37,7 @@ h1{
 .nav__box {
     display: flex;
     flex-wrap: wrap;
-    padding: 6px;
+    padding: 10px;
 }
 .logo-btn {
     display: flex;
@@ -428,6 +428,11 @@ linear-gradient(0deg, #BCBCBC, #BCBCBC);
     .nav_element{
         margin-top: 4px;
         
+    }
+}
+@media (max-width: 430px){
+    .nav__box{
+        padding: 0;
     }
 }
 
