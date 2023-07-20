@@ -19,7 +19,7 @@ h1{
 }
 
 .container{
-        max-width: 1260px;
+    max-width: 1260px;
     padding: 0 15px;
     margin: 0 auto;
     height: 100%;
@@ -32,13 +32,12 @@ h1{
 /*/HEADER///////////////////////////////////////*/
 .header {
     border-bottom: 2px solid #ddd;
-    
 }
 
 .nav__box {
     display: flex;
     flex-wrap: wrap;
-    padding: 10px;
+    padding: 6px;
 }
 .logo-btn {
     display: flex;
